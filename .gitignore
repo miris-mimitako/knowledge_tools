@@ -9,3 +9,7 @@
 **/.env.development
 **/.env.test
 **/.env.production
+**/*.db
+**/*.sqlite3
+**/*.sqlite
+**/*.sqlite3
